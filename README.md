@@ -12,7 +12,7 @@ make br
 http://localhost:3001/fizzbuzz
 ~~~
 
-### add Query Parameter
+### Add query parameter
 ~~~shell
 http://localhost:3001/fizzbuzz?num=1000
 ~~~
