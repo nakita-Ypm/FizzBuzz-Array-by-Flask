@@ -9,6 +9,3 @@ def apply(app):
             num = 100
         res = fizzbuzz_domain.fizzbuzz(int(num))
         return res
-        
-
-# flask run -h 0.0.0.0 -p 3001
